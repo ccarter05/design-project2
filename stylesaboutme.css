@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.logo{
+    display: inline-block;
+}
+.navigator-box{
+    border: 2px black solid;
+    display: inline-block;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Lobster', sans-serif;
+    background-color: #d9d2e9ff;
+    position: relative;
+    left: 1%;
+    bottom: 190px;
+}
+a{
+    background-color: #d9d2e9ff;
+}
+h1{
+    background-color: #d9d2e9ff;
+}
+h1 a{
+    padding: 10px 40px;
+}
+.description-box p{
+    color: white;
+    font-size: 40px;
+    font-family: "Lobster", sans-serif;
+    background-color: #98fb98;
+    display: inline-block;
+    position: relative;
+    left: 16%;
+    bottom: 150px;
+}
+main img{
+    position: relative;
+    left: 300px;
+}
+main .about-me {
+    color: white;
+    font-size: 25px;
+    position: relative;
+    left: 800px;
+    top: -500px;
+}
+main h2{
+    color:  white;
+    font-size: 35px;
+}
+main .contact-me{
+    position: relative;
+    left: 400px;
+    top: -300px;
+}

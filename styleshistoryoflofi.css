@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.logo{
+    display: inline-block;
+}
+.navigator-box{
+    border: 2px black solid;
+    display: inline-block;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Lobster', sans-serif;
+    background-color: #d9d2e9ff;
+    position: relative;
+    left: 1%;
+    bottom: 190px;
+}
+a{
+    background-color: #d9d2e9ff;
+}
+h1{
+    background-color: #d9d2e9ff;
+}
+h1 a{
+    padding: 10px 40px;
+}
+.description-box p{
+    color: white;
+    font-size: 40px;
+    font-family: "Lobster", sans-serif;
+    background-color: #98fb98;
+    display: inline-block;
+    position: relative;
+    left: 16%;
+    bottom: 150px;
+}
+main h2{
+    font-size: 40px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+main p{
+    font-size: 25px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+main .first-paragraph{
+    position: relative;
+    left: 25px;
+}
+main .vaporwave-city{
+    width: 40%;
+    height: 40%;
+    position: relative;
+    top: -325px;
+    left: 1150px;
+}
+main .tree{
+    width: 40%;
+    height: 40%;
+    position: relative;
+    left: -750px;
+    top: 100px;
+}
+main .second-paragraph{
+    position: relative;
+    left: 950px;
+    top: -280px;
+}
+.form{
+    position: relative;
+    left: 450px;
+    top: -250;
+}
+.label{
+    font-size: 25px;
+    color: white;
+}
+.insert{
+    color: white;
+    position: relative; 
+    left: 450px;
+}
+.input{
+    color:  white;
+}
+textarea{
+    position: relative;
+    left: -55px;
+}
+#submit{
+    font-size: 25px;
+    border: white 2px solid;
+    padding: 1px;
+    position: relative;
+    left: 100px;
+}
